@@ -1,6 +1,6 @@
 ## Guessing Game 1
 
-[Link to the challenge ](https://play.picoctf.org/practice/challenge/293) (reload the page)
+[Link to the challenge ](https://play.picoctf.org/practice/challenge/90) (reload the page)
 
 This challenge provide 3 files the binary the code source and the Makefile
 
